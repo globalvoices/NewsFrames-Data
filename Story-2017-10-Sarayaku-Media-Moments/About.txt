@@ -1,1 +1,20 @@
 About this Directory
+Data 2016-12 Sarayaku 
+Publisher: Global Voices
+
+Data used to support the reporting of this story came from:
+* Media Cloud (mediacloud.org)
+
+
+======Media Cloud
+* queries
+Our query for this story was:
+
+https://dashboard.mediacloud.org/#query/["Sarayaku"]/[{"sets":[9360826]}]/["2016-12-16"]/["2016-12-23"]/[{"uid":3,"name":"Sarayaku - Dec 2016","color":"9e7b06"}]
+
+
+* files
+That produced the file in this directory.
+"Sarayaku - mediacloud-public_stories-20171010121139"
+
+The file “SARAYAKU - December  2016-  STORIES - Annotated” is an annotated file to support the analysis of  the usahe of the competing words "Retenidos" & "Secuestrados" in the Ecuadorian coverage of the Sarayaku.
