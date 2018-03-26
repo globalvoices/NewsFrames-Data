@@ -1,0 +1,15 @@
+sentence,bias_composite,norm_figurative_cnt,norm_word_cnt,norm_self_refer_cnt,norm_attribution_cnt,norm_certainty,norm_doubt_cnt,norm_quote_length,norm_vader_senti_abs,norm_value_cnt,norm_partisan_cnt,norm_neg_persp,norm_presup_cnt
+"Net immigration RISES to 244,000 a year and is still more than DOUBLE the PM's target but numbers from the EU drop below 100,000 for first time since 2013            ",1.063897086,0,1.503,0,0,0.6611694,0,0,1.072885316,8.973026186,2.602753803,1.527374516,4.874275711
+The latest official figures on showing annual net migration have been released,0.7284855,0,1.502981531,0,0,0.6611694,0,0,0,0,1.328817886,0,2.263680895
+"The net inflow to the UK was 244,000 in 12 months to September, the ONS said",0.644218,0,1.502999662,0,0,0.451874932,0,0,0,0,0,0,2.263680895
+Theresa May has made curbing free movement a red line in Brexit negotiations,0.860968791,0,1.502993205,0,1.9311876,0.852606155,2.208134413,0,1.385713517,5.444618135,1.328817886,0,2.263680895
+"Net immigration has risen to 244,000 a year in a reminder of the scale of the task facing the government to curb numbers.",0.5011245,0,1.503,0,1.9311876,0.6611694,0,0,0,0,2.189963995,0,0
+"The net flow to the UK in the year to September was up from 230,000 in the 12 months to June.  ",0.5442215,0,1.502999998,0,0,0.6611694,0,0,0,0,1.328817886,0,0
+"The increase was driven mainly by a rise in arrivals from outside the EU, with immigration from the bloc slipping sharply, according to the Office for National Statistics (ONS).",0.850053326,0,1.503,0,1.9311876,0.6611694,2.208134413,0,0.874871925,10.66436621,1.328817886,0,2.263680895
+"Net migration from the EU was 90,000 in the year ending September 2017 - the first time it has fallen below 100,000 since 2013.",0.886460794,0,1.503,0,0,0.6611694,0,0,0.990715293,5.444618135,2.602753803,1.473155947,4.43386872
+"The net figure from the rest of the world was 205,000, up from 173,000 in the year to June. ",0.6030385,0,1.502999983,0,0,0.6611694,0,0,0,0,2.189963995,0,0
+"The overall rate is still more than double the government's targets of below 100,000 a year.",0.8209285,0,1.502999662,0,1.9311876,0.6611694,2.208134413,0,0,5.444618135,2.189963995,0,2.263680895
+"Some 90,000 more EU migrants arrived in Britain than left in the year to September 2017. ",0.769025448,0,1.502999662,0,0,0.523339351,0,0,0,5.444618135,2.189963995,0,0
+"That marks the first time net migration from the bloc has dipped below six figures since the year to march 2013, when it was 95,000. ",0.8152875,0,1.503,0,0,0.6611694,0,0,0,0,2.772061307,0,4.832930139
+"The last time the measure was lower was in 2012, when it was 82,000. ",0.910192073,0,1.5029975,0,0,0.6611694,0,0,0.814749511,5.444618135,1.328817886,1.404844545,3.730668973
+"ONS statistician Nicola White said: 'Today's figures show that 244,000 more people are coming to the UK than leaving so net migration is adding to the UK population and is at a similar level to early 2014.",1.0119107,0,1.503,0,0,0.494960331,0,0,0,11.35807655,2.772061307,0,4.43386872
