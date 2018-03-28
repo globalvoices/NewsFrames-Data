@@ -1,0 +1,3 @@
+sentence,bias_composite,norm_figurative_cnt,norm_word_cnt,norm_self_refer_cnt,norm_attribution_cnt,norm_certainty,norm_doubt_cnt,norm_quote_length,norm_vader_senti_abs,norm_value_cnt,norm_partisan_cnt,norm_neg_persp,norm_presup_cnt
+christine,0.8114750000000001,0.0,0.6945620873617947,0.0,0.0,0.8526061551447182,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+intelligence,0.9557279684000001,0.0,0.6945620873617947,0.0,0.0,0.8526061551447182,0.0,0.0,1.2972255184947463,5.44461813512171,0.0,0.0,0.0
